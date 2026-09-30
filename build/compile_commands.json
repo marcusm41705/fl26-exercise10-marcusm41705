@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/mnt/build -I/mnt -I/mnt/build/widget_events_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -fPIC -std=gnu++17 -o CMakeFiles/widget_events.dir/widget_events_autogen/mocs_compilation.cpp.o -c /mnt/build/widget_events_autogen/mocs_compilation.cpp",
+  "file": "/mnt/build/widget_events_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/mnt/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/mnt/build -I/mnt -I/mnt/build/widget_events_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -fPIC -std=gnu++17 -o CMakeFiles/widget_events.dir/main.cpp.o -c /mnt/main.cpp",
+  "file": "/mnt/main.cpp"
+},
+{
+  "directory": "/mnt/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/mnt/build -I/mnt -I/mnt/build/widget_events_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -g -fPIC -std=gnu++17 -o CMakeFiles/widget_events.dir/widget_events.cpp.o -c /mnt/widget_events.cpp",
+  "file": "/mnt/widget_events.cpp"
+}
+]
