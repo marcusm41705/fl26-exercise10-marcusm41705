@@ -20,6 +20,9 @@ WidgetEvent::WidgetEvent(QWidget *parent) : QWidget(parent){
 }
 bool WidgetEvent::event(QEvent *event){
     std::cout << ToString(event->type()).toStdString() << std::endl;
+   // std::string input;
+    //std::cout << "type something: ";
+    //std::cin >> input;
     return true;
     
 
